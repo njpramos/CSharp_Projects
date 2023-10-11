@@ -1,0 +1,14 @@
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Starter\obj\Debug\net7.0\ref\Starter.dll

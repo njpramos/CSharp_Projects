@@ -1,0 +1,14 @@
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\Users\nomer.ramos\Documents\Scripting\Az Scripts\C#\CsharpProjects\Debugging\obj\Debug\net7.0\ref\Debugging.dll
